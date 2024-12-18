@@ -1,3 +1,5 @@
+## E-mail 
+
 ### Greeting
 Hello,
 
@@ -12,3 +14,8 @@ I've been out of office but am now back and ready to help you.
 Best regards,
 John Smith
 Senior Developer
+
+## Inspections
+
+### Reservations
+This inspection report is based on assumptions about the underlying materials. After Demolition the estimates may have to be revised.
