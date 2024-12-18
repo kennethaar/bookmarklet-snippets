@@ -1,0 +1,14 @@
+### Greeting
+Hello,
+
+Thank you for your message. I hope you're having a great day.
+
+### Response Delay
+I apologize for the delayed response.
+
+I've been out of office but am now back and ready to help you.
+
+### Signature
+Best regards,
+John Smith
+Senior Developer
