@@ -1,6 +1,6 @@
 # Bookmarklet Snippets
 
-Quickly select, copy and paste text that you use often. It's just a bookmark that shows you a list of text snippets.
+Quickly select, copy and paste text that you use often. It's simply a bookmark that shows you a list of text snippets.
 
 ## What it does
 
