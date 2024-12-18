@@ -56,7 +56,7 @@ Formatting rules:
 
 ### Use your own texts
 1. Create your text file like shown above
-2. Upload it to GitHub or Nextcloud, Onedrive, Dropbox or Gdrive.
+2. Upload it to GitHub, Pastebin or Nextcloud.
 3. Get the public or raw link to your file (the file must be accessible by everyone)
 4. Change the `TEXT_URL` in the bookmark code to your link
 
