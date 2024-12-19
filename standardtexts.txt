@@ -29,24 +29,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt liber
 ### Lorem 2
 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
 
-### Lorem 3
-3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
-### Lorem 4
-4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
-### Lorem 5
-5 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
-### Lorem 6
-6 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
-### Lorem 7
-7 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
-### Lorem 8
-8 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
-
 ## Courses
 
 ### Sign up
