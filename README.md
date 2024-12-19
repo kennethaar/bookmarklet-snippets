@@ -32,22 +32,48 @@ Quickly select, copy and paste text that you use often. It's simply a bookmark t
 Name your file `standardtexts.txt` and write it like this:
 
 ```
-### Hello Message
-Hi there!
+## E-mail 
 
-Thanks for your message.
+### Greeting
+Hello,
 
-### Sorry I'm Late
-Sorry for the late reply.
+Thank you for your message. I hope you're having a great day.
 
-I was away from my desk.
+### Response Delay
+I apologize for the delayed response.
 
-### My Sign-off
+I've been out of office but am now back and ready to help you.
+
+### Signature
 Best regards,
-John
+John Smith
+Senior Developer
+
+### Let me know
+Just let me know if there's anything else I can help you with.
+
+## Inspections
+
+### Reservations
+This inspection report is based on assumptions about the underlying materials. After Demolition the estimates may have to be revised.
+
+### Lorem
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus. 
+
+## Courses
+
+### Sign up
+Sign up for paid courses here:
+
+You can also order customized in-house training there.
+
+### Webinars
+See a list of future free webinars here:
+
 ```
 
 Formatting rules:
+- Any categories start with `##`
 - Start each text with `### ` and a title
 - Put your actual text below the title
 - Leave empty lines between different texts
@@ -69,6 +95,10 @@ Works in all modern browsers:
 - Chrome
 - Edge
 - Safari
+
+## Does it work on all sites?
+
+It should work on most sites, but some like outlook.com will block it from getting the list of snippets.
 
 ## Need help?
 
