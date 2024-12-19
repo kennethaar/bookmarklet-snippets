@@ -2,6 +2,9 @@
 
 Quickly select, copy and paste text that you use often. It's simply a bookmark that shows you a list of text snippets.
 
+![msedge_YDYCdXPXPS](https://github.com/user-attachments/assets/c4a538eb-c743-40e2-b767-df5e28f6b42a)
+
+
 ## What it does
 
 - Shows a window with your saved texts
