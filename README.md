@@ -13,13 +13,13 @@ Quickly select, copy and paste text that you use often. It's simply a bookmark t
 ## Setting it up
 
 1. Create a text file with your snippets (see example below)
-2. Put this file on GitHub
+2. Put this file on GitHub, Pastebin or your own server.
 3. Show your browser's bookmark bar if it's hidden:
    - Chrome/Edge: Press Ctrl+Shift+B (or ⌘+Shift+B on Mac)
    - Firefox: Right-click the top of the browser and check "Bookmarks Toolbar"
 4. Create the bookmark:
   Right-click your bookmark bar, select "Add new bookmark", name it "Text Snippets", and paste the code from `bookmarklet.js` into the URL field
-5. In the bookmark code, change the `TEXT_URL` to point to your text file (has to be publicly visible so don't add confidentil information in it.
+5. In the bookmark code, change the `TEXT_URL` to point to your text file (has to be publicly visible so don't add confidential information in it.)
 
 ## How to use it
 
