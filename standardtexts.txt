@@ -46,3 +46,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt liber
 
 ### Lorem 8
 8 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt libero sed ante maximus, in convallis sem hendrerit. Aenean pulvinar, ante in dignissim cursus, tellus magna tempus augue, eu vulputate mauris nisi eu risus.
+
+## Courses
+
+### Sign up
+Sign up for paid courses here:
+
+https://cabgroup.se/no/meps/opplaering.html
+
+You can also order customized in-house training there.
+
+### Webinars
+See a list of future free webinars here:
+
+https://cabgroup.se/no/meps/opplaering.html
+
